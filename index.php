@@ -24,7 +24,7 @@ body, html {
 </head>
 <body>
 
-<h><b>HELLO EVERYONE !</b></h>
+<h><b>IBM DEVELOPER ADVOCATE!</b></h>
 <div class="bg"></div>
 
 
