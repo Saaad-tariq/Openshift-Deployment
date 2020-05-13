@@ -1,22 +1,16 @@
-# Kubernetes_with_openshift@NIC
+# (Urdu): Deploy Cloud-Native Application using Red Hat OpenShift on IBM Cloud
 Let's deploy simple php application on Openshift cluster
 
 ## Follow these steps:
 
 ## Step 1 : Sign-up for IBM Cloud Platform 
 
-[http://ibm.biz/openshiftnic](http://ibm.biz/openshiftnic)
+[http://ibm.biz/BdqPB7](http://ibm.biz/BdqPB7)
 
 ![GitHub Logo](images/s1.png)
 
 
 
-## Step 2: Get your Openshift cluster:
-[https://openshiftpakistan.mybluemix.net/](https://openshiftpakistan.mybluemix.net/)
-1. lab_Key:oslab
-2. IBM_id: your email 
-
-![GitHub Logo](images/s2.png)
 
 
 
@@ -26,9 +20,7 @@ Let's deploy simple php application on Openshift cluster
 
 
 
-## Step 4: You will see below image once you are successfully registered
 
-![GitHub Logo](images/s4.jpeg)
 
 
 ## Step 5: Login into your IBM account and you will able to see external account then select it
