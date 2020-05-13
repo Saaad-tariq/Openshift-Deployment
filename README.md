@@ -30,7 +30,7 @@ Let's deploy simple php application on Openshift cluster
 
 ## Step 7: In Configuration
 1. Application name : demoapp
-2. Git Repository: https://github.com/Saaad-tariq/Openshift-Deployment.git](https://github.com/Saaad-tariq/Openshift-Deployment.git)
+2. Git Repository: https://github.com/Saaad-tariq/Openshift-Deployment.git]
 
 ![GitHub Logo](images/se.png)
 
