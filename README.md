@@ -33,5 +33,3 @@ Let's deploy simple php application on Openshift cluster
 ## Step 8: Select Application->services and then Hostname link
 ![GitHub Logo](images/s12.png)
 
-## Step 9: Finally your application is running on Openshift
-![GitHub Logo](images/s13.png)
